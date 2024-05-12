@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/tweet" android:id="@+id/tweet_menuItem"/>
+<item android:title="@string/view_tweet" android:id="@+id/viewTweet_menuItem"/>
+<item android:title="@string/log_out" android:id="@+id/logout_menuItem"/>
+
+</menu>
